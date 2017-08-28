@@ -1,0 +1,14 @@
+#tablero{
+    width: 100vh;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.ficha {
+    background: red;
+    width:30vh;
+    margin: 9.5vh;
+    height: 15vh;
+    display: inline-block;
+}
+
